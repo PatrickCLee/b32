@@ -1,0 +1,2 @@
+rootProject.name='brad32'
+include ':app'

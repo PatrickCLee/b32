@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <tw.org.iii.brad.brad32.MyView
+        android:id="@+id/myView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+<!--    <TextView-->
+<!--        android:id="@+id/v1"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textColor="#f00"-->
+<!--        />-->
+<!--    <TextView-->
+<!--        android:id="@+id/v2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textColor="#0ff"-->
+<!--        />-->
+<!--    <TextView-->
+<!--        android:id="@+id/v3"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textColor="#ff0"-->
+<!--        />-->
+
+</LinearLayout>
